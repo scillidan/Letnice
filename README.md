@@ -1,1 +1,0 @@
-# letnice (mirror-edit)
