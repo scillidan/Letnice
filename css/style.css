@@ -6,6 +6,15 @@
     --gone: #393939;
 }
 
+/*:root {
+    --bright: #fffff8;
+    --gray: #D8E3E7;
+    --dark: #101010;
+    --select: #549688;
+    --gone: #B2BBBE;
+    --bg: #2d7d9a;
+}*/
+
 html,
 body {
     display: block;
